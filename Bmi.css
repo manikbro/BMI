@@ -1,0 +1,37 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    background-color: grey
+}
+h1{
+    background-color: transparent;
+}
+.divv{
+    position: absolute;
+    left: 500px;
+    text-align: center;
+    width: 800px;
+    border-radius: 20px ;
+    background-color: rgb(81, 81, 81);
+}
+div{
+
+    background-color: transparent;
+}
+
+input{
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+}
+
+label{
+    color: aliceblue;
+    background-color: transparent;
+}
+
+select{
+    background-color: aliceblue;
+}
+button{
+    background-color: aliceblue;
+}
